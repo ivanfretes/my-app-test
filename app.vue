@@ -5,15 +5,13 @@
     
 
     <form  @submit="submit">
-      Name
+      Name and lastname
       <input type="text" name="name"/><br>
       Email
       <input type="email" name="name"/><br>
 
       <button type="submit" >Save</button>
     </form>
-
-
     
   </div>
 </template>
